@@ -1,16 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 soy Joan Marí Torrent ✨</h1> 
 
-<!--
-**JoanMariTorrent/JoanMariTorrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Joan Mari Torrent"/></a>
+  <a href="https://www.artstation.com/TU_ARTSTATION" target="blank"><img align="center" src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="Joan Mari Torrent" /></a>
+  <a href="mailto:joan.mari.torrent@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="joan.mari.torrent@gmail.com" /></a>
+</p>
 
-Here are some ideas to get you started:
+<br>
+<h2>Sobre mí 🕹️</h2>
+<p align="left">
+🎓 **GAME DEVELOPER** especializado en **Unity & C#**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕹️ Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**.
+
+💻 Apasionado por la ingeniería de software aplicada a los videojuegos: **Arquitecturas escalables, Clean Code (SOLID) y optimización.**
+
+📝 Experiencia desarrollando sistemas **Multijugador (P2P / Host-Authoritative)**, mecánicas de juego dinámicas e interfaces de usuario (**UI**) avanzadas.
+
+📫 Contacto: **joan.mari.torrent@gmail.com**
+</p>
+<br>
+
+<h2>Tecnologías conocidas👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,cpp,unreal,git,github,dotnet,blender,maya,ps,substance,visualstudio,vscode&perline=12" />
+  </a>
+</p>
+<br>
+
+<div id="proyectos">
+<h2>Proyectos destacados 🚀</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="33%" align="center">
+    <p align="center">
+     <a href="#" title="Multiplayer Parkour Shooter">
+        <img align="center" width=100% src="https://via.placeholder.com/400x225.png?text=Parkour+Shooter+PVP" alt="Parkour Shooter" /></a>
+      </p>
+    <p align="center">
+      <strong>Parkour Shooter PVP</strong><br>
+      <i>Unity, PurrNet, Steamworks</i>
+    </p>       
+</td>
+
+<td width="33%" align="center">
+    <p align="center">
+     <a href="#" title="2D Platformer Hook">
+        <img align="center" width=100% src="https://via.placeholder.com/400x225.png?text=2D+Grappling+Hook+Game" alt="2D Game" /></a>
+      </p>
+    <p align="center">
+      <strong>2D Hook Game</strong><br>
+      <i>Physics, Save Systems & UI</i>
+    </p>       
+</td>
+  
+  <td width="33%" align="center">
+    <p align="center">
+     <a href="#" title="VR Prototyping">
+        <img align="center" width=100% src="https://via.placeholder.com/400x225.png?text=VR+Interaction+Prototypes" alt="VR Game" /></a>
+      </p>
+    <p align="center">
+      <strong>VR Interaction Prototypes</strong><br>
+      <i>Unreal Engine & Interaction</i>
+    </p>       
+</td>
+</tr>
+</table>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<h2>GitHub Stats 📊</h2>
+<p align="center">
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+  <img title="GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
