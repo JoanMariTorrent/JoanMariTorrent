@@ -45,11 +45,11 @@
 
 <td width="33%" align="center">
     <p align="center">
-     <a href="#" title="2D Platformer Hook">
-        <img align="center" width=100% src="https://via.placeholder.com/400x225.png?text=2D+Grappling+Hook+Game" alt="2D Game" /></a>
+     <a href="#" title="2.5D Platformer Hook">
+        <img align="center" width=100% src="https://via.placeholder.com/400x225.png?text=2.5D+Grappling+Hook+Game" alt="2.5D Game" /></a>
       </p>
     <p align="center">
-      <strong>2D Hook Game</strong><br>
+      <strong>2.5D Hook Game</strong><br>
       <i>Physics, Save Systems & UI</i>
     </p>       
 </td>
