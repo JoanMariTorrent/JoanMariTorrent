@@ -15,7 +15,7 @@
 
 💻 &nbsp; Apasionado por la ingeniería de software aplicada a los videojuegos: **Arquitecturas escalables, Clean Code (SOLID) y optimización.**
 
-📝 &nbsp; Experiencia desarrollando sistemas **Multijugador (P2P / Host-Authoritative)**, mecánicas de juego dinámicas e interfaces de usuario (**UI**) avanzadas.
+📝 &nbsp; Experiencia desarrollando sistemas **Multijugador (P2P / Host-Authoritative)**, mecánicas de juego dinámicas e interfaces de usuario (**UI**).
 </p>
 <br>
 
