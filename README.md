@@ -9,7 +9,7 @@
 <br>
 <h2>Sobre mí 🕹️</h2>
 <p align="left">
-🎓 &nbsp; GAME DEVELOPER especializado en Unity & C#.
+🎓 &nbsp; **GAME DEVELOPER** especializado en **Unity & C#**.
 
 🕹️ &nbsp; Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**. 
 
@@ -40,7 +40,7 @@
     <p align="center">
       <strong>Parkour Shooter PVP</strong><br>
       <i>Unity, PurrNet, Steamworks</i>
-    </p>       
+    </p>        
 </td>
 
 <td width="33%" align="center">
@@ -51,7 +51,7 @@
     <p align="center">
       <strong>2.5D Hook Game</strong><br>
       <i>Physics, Save Systems & UI</i>
-    </p>       
+    </p>        
 </td>
   
   <td width="33%" align="center">
@@ -62,7 +62,7 @@
     <p align="center">
       <strong>VR Interaction Prototypes</strong><br>
       <i>Unreal Engine & Interaction</i>
-    </p>       
+    </p>        
 </td>
 </tr>
 </table>
@@ -75,11 +75,11 @@
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-  <img title="GitHub Streak" alt="Mark streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=JoanMariTorrent&theme=dark&hide_border=false](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoanMariTorrent&theme=dark&include_all_commits=true&hide_border=false&no-bg=true&no-frame=true&langs_count=10)" /> 
+  <img title="GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JoanMariTorrent&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoanMariTorrent&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoanMariTorrent&theme=dark&include_all_commits=true&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
