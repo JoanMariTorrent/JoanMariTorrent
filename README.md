@@ -9,7 +9,7 @@
 <br>
 <h2>Sobre mí 🕹️</h2>
 <p align="left">
-🎓 **GAME DEVELOPER** especializado en **Unity & C#**.
+🎓 **(GAME DEVELOPER)** especializado en **Unity & C#**.
 
 🕹️ Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**.
 
