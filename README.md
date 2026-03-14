@@ -9,15 +9,13 @@
 <br>
 <h2>Sobre mí 🕹️</h2>
 <p align="left">
-🎓 *GAME DEVELOPER* especializado en **Unity & C#**.
+🎓 &nbsp; **GAME DEVELOPER** especializado en **Unity & C#**.
 
-🕹️ Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**.
+🕹️ &nbsp; Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**.
 
-💻 Apasionado por la ingeniería de software aplicada a los videojuegos: **Arquitecturas escalables, Clean Code (SOLID) y optimización.**
+💻 &nbsp; Apasionado por la ingeniería de software aplicada a los videojuegos: **Arquitecturas escalables, Clean Code (SOLID) y optimización.**
 
-📝 Experiencia desarrollando sistemas **Multijugador (P2P / Host-Authoritative)**, mecánicas de juego dinámicas e interfaces de usuario (**UI**).
-
-📫 Contacto: **joan.mari.torrent@gmail.com**
+📝 &nbsp; Experiencia desarrollando sistemas **Multijugador (P2P / Host-Authoritative)**, mecánicas de juego dinámicas e interfaces de usuario (**UI**) avanzadas.
 </p>
 <br>
 
