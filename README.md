@@ -75,11 +75,11 @@
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-  <img title="GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=false" /> 
+  <img title="GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JoanMariTorrent&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoanMariTorrent&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
