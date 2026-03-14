@@ -11,7 +11,7 @@
 <p align="left">
 🎓 &nbsp; **GAME DEVELOPER** especializado en **Unity & C#**.
 
-🕹️ &nbsp; Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**.
+🕹️ &nbsp; Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**. 
 
 💻 &nbsp; Apasionado por la ingeniería de software aplicada a los videojuegos: **Arquitecturas escalables, Clean Code (SOLID) y optimización.**
 
