@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/joan-mari-torrent/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Joan Mari Torrent"/></a>
-  <a href="https://www.artstation.com/TU_ARTSTATION" target="blank"><img align="center" src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="Joan Mari Torrent" /></a>
+  <a href="https://www.artstation.com/joanmari" target="blank"><img align="center" src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="Joan Mari Torrent" /></a>
   <a href="mailto:joan.mari.torrent@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="joan.mari.torrent@gmail.com" /></a>
 </p>
 
