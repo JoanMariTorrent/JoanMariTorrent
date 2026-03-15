@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Joan Marí Torrent 🎮</h1> 
+<h1 align="center">Hola 👋 soy Joan Marí Torrent 💻</h1> 
 
 <p align="left">
   <a href="https://linkedin.com/in/joan-mari-torrent/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Joan Mari Torrent"/></a>
@@ -9,13 +9,15 @@
 <br>
 <h2>Sobre mí 🕹️</h2>
 <p align="left">
-🎓 &nbsp; GAME DEVELOPER especializado en Unity & C#.
+🎓 &nbsp; **GAME DEVELOPER** especializado en Unity & C#.
 
 🕹️ &nbsp; Actualmente finalizando el **Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos**. 
 
-💻 &nbsp; Apasionado por la ingeniería de software aplicada a los videojuegos: **Arquitecturas escalables, Clean Code (SOLID) y optimización.**
+🚀 &nbsp; **Backend Explorer**: Especializándome en el ecosistema **.NET (ASP.NET Core)**, diseñando **APIs REST** y gestionando datos con **Entity Framework Core & SQL Server**.
 
-📝 &nbsp; Experiencia desarrollando sistemas **Multijugador (P2P / Host-Authoritative)**, mecánicas de juego dinámicas e interfaces de usuario (**UI**).
+💻 &nbsp; Apasionado por la ingeniería de software: **Arquitecturas escalables, Clean Code (SOLID) y optimización**, tanto en el motor de juego como en el servidor.
+
+📝 &nbsp; Experiencia desarrollando sistemas **Multijugador**, mecánicas de juego e interfaces de usuario (**UI**).
 </p>
 <br>
 
