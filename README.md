@@ -67,6 +67,19 @@
     </p>        
 </td>
 </tr>
+
+<tr>
+  <td width="33%" align="center">
+    <p align="center">
+     <a href="https://github.com/JoanMariTorrent/EmployeeManager-API-NET10" title="Employee Management System API">
+        <img align="center" width=100% src="https://via.placeholder.com/400x225.png?text=Employee+Management+API+.NET10" alt="Backend API" /></a>
+      </p>
+    <p align="center">
+      <strong>Employee Manager API</strong><br>
+      <i>.NET 10, EF Core & SQL Server</i>
+    </p>        
+  </td>
+  <td width="33%"></td> <td width="33%"></td> </tr>
 </table>
 </div>
 
