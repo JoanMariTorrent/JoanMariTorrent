@@ -7,28 +7,24 @@
 </p>
 
 <br>
-<h2>Sobre mí / About me 🕹️</h2>
+<h2>Sobre mí / About me </h2>
 <p align="left">
 🇪🇸 <b>ES:</b>
 <br>
-🎓 &nbsp; <b>GAME DEVELOPER</b> especializado en Unity & C#.
+🎓 &nbsp; <b>SOFTWARE DEVELOPER</b> con base en Unity & C#.
 <br>
-🕹️ &nbsp; Finalizando el Grado Superior en Animaciones 3D, Juegos y Entornos Interactivos. 
+🚀 &nbsp; <b>Evolucionando hacia el Backend</b>: Actualmente profundizando en el ecosistema <b>.NET</b> (ASP.NET Core) y bases de datos SQL.
 <br>
-🚀 &nbsp; <b>Backend Explorer</b>: Especializándome en el ecosistema .NET (ASP.NET Core) y SQL Server.
-<br>
-💻 &nbsp; Apasionado por la ingeniería de software: Arquitecturas escalables, Clean Code y SOLID.
+💻 &nbsp; Interesado en mejorar la calidad de mi código aplicando principios <b>SOLID</b> y explorando soluciones <b>Serverless</b> (AWS Lambda).
 <br><br>
 
 🇺🇸 <b>EN:</b>
 <br>
-🎓 &nbsp; <b>GAME DEVELOPER</b> specialized in Unity & C#.
+🎓 &nbsp; <b>SOFTWARE DEVELOPER</b> with a background in Unity & C#.
 <br>
-🕹️ &nbsp; Completing my Associate Degree in 3D Animation, Games, and Interactive Environments.
+🚀 &nbsp; <b>Transitioning to Backend</b>: Currently expanding my knowledge in the <b>.NET</b> ecosystem and SQL databases.
 <br>
-🚀 &nbsp; <b>Backend Explorer</b>: Specializing in the .NET ecosystem (ASP.NET Core) and SQL Server.
-<br>
-💻 &nbsp; Passionate about software engineering: Scalable architectures, Clean Code, and SOLID.
+💻 &nbsp; Focused on improving code quality by learning <b>SOLID</b> principles and exploring <b>Serverless</b> solutions (AWS Lambda).
 </p>
 <br>
 
