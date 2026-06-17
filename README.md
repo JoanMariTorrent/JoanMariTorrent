@@ -31,7 +31,7 @@
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,dotnet,aws,vscode,github,c,unreal,bitbucket,blender,ps,ae,premiere,devto,discord&perline=15" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio,dotnet,aws,vscode,github,c,unreal,bitbucket,blender,ps,ae,premiere,devto,discord&perline=15" />
   </a>
 </p>
 <br>
