@@ -11,7 +11,7 @@
 <p align="left">
 🇪🇸 <b>ES:</b>
 <br>
-🎓 &nbsp; <b>SOFTWARE DEVELOPER</b> con base en Unity & C#.
+🎓 &nbsp; <b>GAME DEVELOPER</b> con base en Unity & C#.
 <br>
 🚀 &nbsp; <b>Evolucionando hacia el Backend</b>: Actualmente profundizando en el ecosistema <b>.NET</b> (ASP.NET Core) y bases de datos SQL.
 <br>
@@ -20,7 +20,7 @@
 
 🇺🇸 <b>EN:</b>
 <br>
-🎓 &nbsp; <b>SOFTWARE DEVELOPER</b> with a background in Unity & C#.
+🎓 &nbsp; <b>GAME DEVELOPER</b> with a background in Unity & C#.
 <br>
 🚀 &nbsp; <b>Transitioning to Backend</b>: Currently expanding my knowledge in the <b>.NET</b> ecosystem and SQL databases.
 <br>
@@ -31,7 +31,7 @@
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,unity,visualstudio,vscode,github,c,unreal,bitbucket,blender,ps,ae,premiere,devto,discord&perline=15" />
+    <img src="https://skillicons.dev/icons?i=unity,cs, visualstudio,dotnet,aws,vscode,github,c,unreal,bitbucket,blender,ps,ae,premiere,devto,discord&perline=15" />
   </a>
 </p>
 <br>
