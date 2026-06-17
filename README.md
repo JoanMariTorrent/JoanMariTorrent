@@ -11,7 +11,7 @@
 <p align="left">
 🇪🇸 <b>ES:</b>
 <br>
-🎓 &nbsp; <b>GAME DEVELOPER</b> con base en Unity & C#.
+🎓 &nbsp; <b>GAME DEVELOPER</b> con base en Unity y C#.
 <br>
 🚀 &nbsp; <b>Evolucionando hacia el Backend</b>: Actualmente profundizando en el ecosistema <b>.NET</b> (ASP.NET Core) y bases de datos SQL.
 <br>
